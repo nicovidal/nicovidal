@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="200"/>
   <h1 align="center">Hi!, I'm Nicolas</h1>
+  <h3 >Spanish,English,Japanese</h3>
 </div>
 
 <div align="center">
@@ -8,14 +9,15 @@
   <h4>Currently studying software engineering</h4>
 </div>
 
-<h5 align="center">- I’m learning JavaScript,TypeScript and frameworks about this langueges<h5/>
+<h5 align="center">-🌱I’m learning JavaScript,TypeScript and frameworks about this langueges<h5/>
+<h5 align="center">-🔭 I’m currently working on LicitaLab <h5/>
 
 <!--
 **nicovidal/nicovidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- ...
 🌱
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
