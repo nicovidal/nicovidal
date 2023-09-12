@@ -3,7 +3,10 @@
   <h1 align="center">Hi!, I'm Nicolas</h1>
 </div>
 
+<div align="center">
 
+  <h4>Currently studying software engineering</h4>
+</div>
 
 <!--
 **nicovidal/nicovidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
