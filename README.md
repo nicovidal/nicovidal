@@ -10,7 +10,7 @@
 </div>
 
 <h5 align="center">-🌱I’m learning JavaScript,TypeScript and frameworks about this langueges<h5/>
-<h5 align="center">-🔭 Looking for my practice<h5/>
+
 
 <!--
 **nicovidal/nicovidal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
