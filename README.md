@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <h4>Currently studying software engineering</h4>
+  <h4> Software Engineering</h4>
 </div>
 
 <h5 align="center">-🌱I’m learning JavaScript,TypeScript and frameworks about this langueges<h5/>
